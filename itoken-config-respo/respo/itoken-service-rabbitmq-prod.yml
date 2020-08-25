@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: itoken-service-rabbit
+  rabbitmq:
+    host: 192.168.127.133
+    port: 5672
+    username: rabbit
+    password: 123456
+
+server:
+  port: 8509
