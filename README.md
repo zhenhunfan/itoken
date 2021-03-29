@@ -1,6 +1,6 @@
 # itoken
 
-​		itoken项目是我学习过程中做的一个Spring Boot + Spring Cloud 的综合练习项目，同时也是spring cloud 项目的框架demo项目，主流框架都有涉及。该项目使用GitLab做代码管理，使用Nexus做依赖私服，使用Registry做Docker镜像私服，使用GitLab Runner做持续集成。
+​		itoken项目是我学习过程中做的一个Spring Cloud Netflix 综合练习项目，主流框架都有涉及。该项目使用GitLab做代码管理，使用Nexus做依赖私服，使用Registry做Docker镜像私服，使用GitLab Runner做持续集成。
 
 ​		该项目所有的项目支撑性框架都使用linux 虚拟机docker容器的方式提供服务，大体的虚拟机结构如下：
 
